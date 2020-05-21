@@ -1,0 +1,15 @@
+Integrantes:
+	Gómez, Guillermo
+	Rodriguez, Mirian I.
+
+Algunas metodologías tradicionales:
+
+	1) Cascada
+
+	2) Merise
+
+	3) Métrica 3
+
+	4) SSADM
+
+	5) RUP
